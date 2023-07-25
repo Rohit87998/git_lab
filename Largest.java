@@ -22,7 +22,7 @@ else if ( c > b && c > a ) {
 
 float sum = a+b+c;
 float average = sum/2;
-System.out.println("average = "+ average);
+System.out.println("average of the three numbers is  = "+ average);
 
 
 
